@@ -9,8 +9,8 @@ I will be sorting through historical trade data for Bitcoin on two exchanges: Bi
 ## Technologies
 ###### Resource 
 - Data Availabe for download:
-    -Bitstamp http://localhost:8888/lab/tree/Resources/bitstamp.csv
-    -Coinbase http://localhost:8888/lab/tree/Resources/coinbase.csv
+    - Bitstamp http://localhost:8888/lab/tree/Resources/bitstamp.csv
+    - Coinbase http://localhost:8888/lab/tree/Resources/coinbase.csv
 ###### Tools
 Jupyter Lab
 - Jupyter Notebook
